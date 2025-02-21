@@ -7,7 +7,7 @@
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
 
-    <label for="aadhar"><b>Aadhar</b></label>
+    <label for="aadhar"><b>Aadhar Number</b></label>
     <input type="text" placeholder="Enter Aadhar number" name="aadhar" id="aadhar" required>
 
 
