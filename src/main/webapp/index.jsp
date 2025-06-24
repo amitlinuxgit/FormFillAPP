@@ -59,6 +59,8 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br> 
    
+    <h1> This is complete CI-CD Devops Pipeline Project by Mr. Amit from Amidemy </h1>
+    <h1> Thank you, Happy Learning!! </h1>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
