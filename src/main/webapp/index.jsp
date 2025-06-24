@@ -31,6 +31,9 @@
      <input type="text" placeholder="Sister Name" name="sister" id="sister" required>
      <br>
 
+     <label for="spouse"><b>Spouse Name</b></label>
+     <input type="text" placeholder="Spouse Name" name="spouse" id="spouse" required>
+     <br>
 
 
 
